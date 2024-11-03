@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj": {}
+    "C:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj": {
+    "C:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
+        "projectUniqueName": "C:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
         "projectName": "CSharpBasics",
-        "projectPath": "c:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
+        "projectPath": "C:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
         "packagesPath": "C:\\Users\\FOLIO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\obj\\",
+        "outputPath": "C:\\Users\\FOLIO\\c_sharp_projects\\CSharpBasics\\CSharpBasics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FOLIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
